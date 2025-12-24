@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "supabase/migrations/*.sql": "pgsql"
+  },
+  "sqlfluff.configPath": ".sqlfluff"
+}
